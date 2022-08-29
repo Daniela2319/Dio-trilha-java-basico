@@ -1,18 +1,17 @@
-## Getting Started
+## Variável
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Variável é uma identificação de um espaço em mémoria utilizado pelo nosso programa. Seguindo as converções em linguagem e programação, toda variável é composta por: tipo de dados + identificação + valor atributo.
 
-## Folder Structure
+>`int` idade;  
+`double` salarioMinimo = 2500;
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Constante
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Já as constantes são valores armazenados em mémoria que não podem se modificados depois de declarados.
+Em Java, esse valores são representados pela palavra reservada `final`.
 
-## Dependency Management
+> `final` double VALOR_DE_PI = 3.14;
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
