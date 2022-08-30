@@ -15,3 +15,15 @@ Em Java, esse valores são representados pela palavra reservada `final`.
 > `final` double VALOR_DE_PI = 3.14;
 
 
+## Operadores
+
+São simbolos especiais que tem um significado proprio para a linguagem e estão associados a determinadas operações.
+Representado pelo símbolo de igualdade `=` o operador de atribuição é realizado para definir o valor inicial ou sobescrever o valor de uma variável em Java definimos em tipo, nome e opcionalmente atribuimos um valor à variável através do operador de atribuição. 
+
+> String nome = "Daniela";     
+> int idade = "38";     
+> double peso = "75.5";
+
+
+
+
