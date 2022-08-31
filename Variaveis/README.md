@@ -25,5 +25,31 @@ Representado pelo símbolo de igualdade `=` o operador de atribuição é realiz
 > double peso = "75.5";
 
 
+## Tenário
+
+O operador de condição tenário como fosse um condição `if` normal, porém, de uma forma que toda a sua estrutura estará escrita numa única linha.
+Operador tenário é representada pelos símbolos `? :` utilizados na seguinte estrutura:
+
+>String resultado = a == b ? "Verdadeiro" : "Falso";
+
+
+## Operadores Relacionais
+
+Os operadores relacionais avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
+
+
+ | == | Variável é igual a outra.
+
+ | != | Variável é diferente da outra.
+
+ | > | Variável é maior que a outra.
+
+ | >= | Variável é maior ou igual a outra.
+
+ | <  | Variável é menor que outra.
+
+ | <= | Variável é menor ou igual a outra. 
+
+
 
 
