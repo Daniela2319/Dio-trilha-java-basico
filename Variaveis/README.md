@@ -51,5 +51,13 @@ Os operadores relacionais avaliam a relação entre duas variáveis ou expressõ
  | <= | Variável é menor ou igual a outra. 
 
 
+ ## Lógica
+
+Os operadores lógico representam o recurso que nos permite criar expressões lógicas apartir da função de duas ou mais expressões.
+
+> && Operador lógico "E"   
+> || Operador Lógico "Ou"
+
+
 
 
